@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 12, 12);
+    font-size: 16px;
+    background-color: rgb(226, 238, 253);
+}
+article img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 900px;
+    margin: 16px auto 16px auto; 
+}
+
+a, a:visited, a:active {
+    color: rgb(2, 31, 196);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    padding-left: 0px;
+}
